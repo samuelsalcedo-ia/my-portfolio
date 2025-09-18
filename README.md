@@ -62,4 +62,8 @@ export const personalInfo = {
   heroDescription: "Soy un desarrollador que...",
 };
 
+## 🙏 Agradecimientos
+
+Este es el repositorio de mi portfolio personal, un sitio web moderno y responsive construido con **Astro**, **React**, y **Tailwind CSS**.
+
 El proyecto original es una plantilla de [Rishikesh S.](https://github.com/rishikesh2003/my-portfolio.git), que he adaptado y personalizado con mi propia información y estructura de datos.
