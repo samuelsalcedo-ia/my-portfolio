@@ -247,7 +247,7 @@ export const projects: Project[] = [
       "Genera reportes clave para la toma de decisiones estratégicas."
     ],
     detailedDescription: "Al detectar una necesidad interna en DM Rural, desarrollé esta herramienta para optimizar la gestión del tiempo y los recursos del equipo. La solución proporciona una visión clara de la rentabilidad por proyecto y empleado, permitiendo a la dirección mejorar la planificación y la eficiencia operativa de la empresa.",
-    challenge: "El reto fue crear una solución robusta y fácil de usar sin dependencias externas, utilizando únicamente las herramientas de la suite de Google.",
+    challenge: "El reto ha sido crear una solución robusta y fácil de usar sin dependencias externas, utilizando únicamente las herramientas de la suite de Google.",
     technologies: ["Google App Script", "Google Sheets"]
   },
   {
