@@ -15,7 +15,7 @@ Este es el repositorio de mi portfolio personal, un sitio web moderno y responsi
 ## 🚀 Demo
 
 Puedes ver la versión en vivo de mi portfolio aquí:
-👉 **[samuelsalcedo-ia.github.io/my-portfolio/](https://samuelsalcedo-ia.github.io/my-portfolio/)**
+👉 **[samuelsalcedo-ia.github.io/my-portfolio/](https://samuelsalcedo-ia.github.io/portfolio/)**
 
 ## 🛠️ Cómo Empezar (Instalación Local)
 
@@ -27,7 +27,7 @@ Puedes ver la versión en vivo de mi portfolio aquí:
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone [https://github.com/samuelsalcedo-ia/portfolio.git](https://github.com/samuelsalcedo-ia/portfolio.git)
+    git clone [https://github.com/samuelsalcedo-ia/my-portfolio.git](https://github.com/samuelsalcedo-ia/my-portfolio.git)
     cd my-portfolio
     ```
 

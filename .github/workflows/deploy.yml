@@ -12,31 +12,11 @@ permissions:
   id-token: write
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
       
-      - name: Setup Node and install dependencies with Astro
+      - name: Build and Deploy with Astro 🚀
         uses: withastro/action@v2
-        # Esta acción ya se encarga de:
-        # 1. Configurar Node.js
-        # 2. Instalar dependencias (npm install)
-        # 3. Construir el proyecto (npm run build)
-
-      - name: Upload artifact 📦
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./dist # La carpeta que Astro construye
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages 🚀
-        id: deployment
-        uses: actions/deploy-pages@v4
