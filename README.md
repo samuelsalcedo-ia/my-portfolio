@@ -15,7 +15,7 @@ Este es el repositorio de mi portfolio personal, un sitio web moderno y responsi
 ## 🚀 Demo
 
 Puedes ver la versión en vivo de mi portfolio aquí:
-👉 **[https://samuelsalcedo-ia.github.io/portfolio/](https://my-portfolio-flax-eight-86.vercel.app/)**
+👉 **[https://my-portfolio-flax-eight-86.vercel.app/](https://my-portfolio-flax-eight-86.vercel.app/)**
 
 ## 🛠️ Cómo Empezar (Instalación Local)
 
