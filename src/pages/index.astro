@@ -1,0 +1,27 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import GlassHeader from "@/components/GlassHeader";
+import HeroSection from "@/components/HeroSection";
+import ProjectsSection from "@/components/ProjectsSection";
+import SkillsSection from "@/components/SkillsSection";
+import ExperienceSection from "@/components/ExperienceSection";
+import EducationSection from "@/components/EducationSection";
+
+// Importamos el componente que hemos renombrado y modificado
+import ContactSection from "@/components/ContactSection"; 
+// Importamos el Footer que hemos modificado
+import Footer from "@/components/Footer";
+---
+
+<Layout>
+  <GlassHeader client:only="react" />
+  <main class="min-h-screen">
+    <HeroSection client:only="react" />
+    <ProjectsSection client:only="react" />
+    <ExperienceSection client:only="react" />
+    <SkillsSection client:only="react" />
+    <EducationSection client:only="react" />
+    <ContactSection client:only="react" /> {/* <-- Lo usamos aquí */}
+  </main>
+  <Footer client:only="react" /> {/* <-- Y aquí el footer actualizado */}
+</Layout>
