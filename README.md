@@ -27,7 +27,7 @@ Puedes ver la versión en vivo de mi portfolio aquí:
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone [https://github.com/samuelsalcedo-ia/my-portfolio.git](https://github.com/samuelsalcedo-ia/my-portfolio.git)
+    git clone https://github.com/samuelsalcedo-ia/my-portfolio.git
     cd my-portfolio
     ```
 
