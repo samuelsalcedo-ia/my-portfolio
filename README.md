@@ -43,6 +43,12 @@ Puedes ver la versión en vivo de mi portfolio aquí:
 
 4.  Abre `http://localhost:4321/my-portfolio/` en tu navegador.
 
+# 🙏 Agradecimientos
+
+Este es el repositorio de mi portfolio personal, un sitio web moderno y responsive construido con **Astro**, **React**, y **Tailwind CSS**.
+
+El proyecto original es una plantilla de [Rishikesh S.](https://github.com/rishikesh2003/my-portfolio.git), que he adaptado y personalizado con mi propia información y estructura de datos.
+
 ## 🧩 Cómo Personalizar el Contenido
 
 Toda la información personal, experiencia, proyectos y habilidades se gestionan desde un único archivo: `src/lib/data.ts`. Simplemente modifica los objetos en este archivo para actualizar el contenido del sitio.
@@ -62,8 +68,3 @@ export const personalInfo = {
   heroDescription: "Soy un desarrollador que...",
 };
 
-## 🙏 Agradecimientos
-
-Este es el repositorio de mi portfolio personal, un sitio web moderno y responsive construido con **Astro**, **React**, y **Tailwind CSS**.
-
-El proyecto original es una plantilla de [Rishikesh S.](https://github.com/rishikesh2003/my-portfolio.git), que he adaptado y personalizado con mi propia información y estructura de datos.
