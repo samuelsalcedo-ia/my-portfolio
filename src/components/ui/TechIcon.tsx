@@ -41,7 +41,7 @@ const techMap: Record<string, TechDefinition> = {
   playwright: { emoji: '🎭' },
   beautifulsoup: { emoji: '🍜' },
   googleapi: { icon: SiGooglemaps, color: 'text-green-600' },
-  googleappscript: { svgUrl: '/technologies/appscript.svg' },
+  googleappscript: { svgUrl: 'technologies/appscript.svg' },
   streamlit: { svgUrl: 'https://cdn.simpleicons.org/streamlit/FF4B4B' },
 };
 

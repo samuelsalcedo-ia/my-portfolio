@@ -205,7 +205,7 @@ export const projects: Project[] = [
   {
     title: "Analizador Predictivo de Negocios (FiveCLM)",
     slug: "analizador-predictivo-fiveclm",
-    imageUrl: "/projects/analizador-de-negocio-fiveclm.webp",
+    imageUrl: "projects/analizador-de-negocio-fiveclm.webp",
     githubUrl: "#",
     liveUrl: "https://storymaps.arcgis.com/stories/c103ec62383d4607b9183127e52fd188",
     youtubeVideoId: "",
@@ -221,7 +221,7 @@ export const projects: Project[] = [
   {
     title: "Asistente de Búsqueda de Empleo para InfoJobs",
     slug: "asistente-infojobs",
-    imageUrl: "/projects/scraper-infojobs.webp",
+    imageUrl: "projects/scraper-infojobs.webp",
     githubUrl: "https://github.com/samuelsalcedo-ia/infojobs-scraper.git",
     liveUrl: undefined,
     youtubeVideoId: "",
@@ -237,7 +237,7 @@ export const projects: Project[] = [
   {
     title: "Sistema de Fichaje y Gestión para DM Rural",
     slug: "sistema-fichaje-dmrural",
-    imageUrl: "/projects/app-fichaje.webp",
+    imageUrl: "projects/app-fichaje.webp",
     githubUrl: "#",
     liveUrl: undefined,
     youtubeVideoId: "",
@@ -253,7 +253,7 @@ export const projects: Project[] = [
   {
     title: "Guía de Servicios Rurales de La Rioja",
     slug: "guia-servicios-rurales",
-    imageUrl: "/projects/guia-servicios-rurales.webp",
+    imageUrl: "projects/guia-servicios-rurales.webp",
     githubUrl: "#",
     liveUrl: "https://guiaserviciosrurales.es",
     youtubeVideoId: undefined,
